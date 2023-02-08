@@ -1,6 +1,5 @@
 require('dotenv').config();
 require('./src/database');
-
 const express = require('express');
 
 const app = express();
