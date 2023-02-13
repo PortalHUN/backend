@@ -1,5 +1,5 @@
-const login = (req,res)=>{
+const register = (req,res)=>{
     res.json({message:'register'});
 }
 
-module.exports = login;
+module.exports = register;
